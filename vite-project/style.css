@@ -1,0 +1,17 @@
+.weatherApp {
+
+    background-image: url(reclameDev.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 15rem 0rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: monospace;
+    color: #fff;
+    
+    
+    
+}
+
